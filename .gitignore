@@ -1,3 +1,6 @@
+#Mac OS X temp files
+.DS_Store
+
 # Logs
 logs
 *.log
